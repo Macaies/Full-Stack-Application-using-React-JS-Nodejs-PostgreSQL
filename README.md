@@ -62,7 +62,12 @@
  *  - Use PostgreSQL for persistent storage
  *  - Implement full CRUD in a full-stack app
  *
- * 
+<img width="2170" height="1667" alt="image" src="https://github.com/user-attachments/assets/d9377470-a52f-4e31-b20d-dae334069643" />
+<img width="2968" height="1599" alt="image" src="https://github.com/user-attachments/assets/e612c7f5-a760-4db7-ba07-52ece42f5bc5" />
+<img width="2924" height="1543" alt="image" src="https://github.com/user-attachments/assets/94b19059-190d-41d2-a221-d5607ce6591c" />
+<img width="1382" height="1483" alt="image" src="https://github.com/user-attachments/assets/181f6f07-0938-4cee-9f4c-251add4028b8" />
+
+
  ## Acknowledgements
 This project is based on the original work by [Deep Patil](https://github.com/deeppatil17/react_nodejs_postgresql).  
 Special thanks for their contributions and inspiration.
